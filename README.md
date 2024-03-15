@@ -1,3 +1,3 @@
 # Python3
-Python 3 programs list
-About PyCharm
+- Python 3 programs list
+- About PyCharm
