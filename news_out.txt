@@ -1,0 +1,4 @@
+TOP STORY: "First, to our headline story. There's a major development in the regional infrastructure project. Officials announced today that the construction of the new highway, considered a vital lifeline for the community, is set to begin next month -- two months ahead of the original schedule. Michelle is on location with the details. Over to you, Michelle."
+INTRO: "Good Evening, I'm Mike and this is Python 3 Programming. We're coming to you from USA. Today is 3/21/2024. Our top TOPICS tonight are..."
+
+News Anchoring Script Sample 1
